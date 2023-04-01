@@ -1,0 +1,5 @@
+local Player = game.Players.LocalPlayer
+local Players = game:GetService("Players")
+local Event = game.Workspace["Main Concert"]
+local Scene = game.Workspace["Main Concert"]["Draax X HeyHey Event Concert Stage"]
+local Chairs = game.Workspace["Main Concert"].Chairs
